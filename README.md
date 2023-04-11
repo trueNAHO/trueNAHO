@@ -1,4 +1,5 @@
 <!--toc:start-->
+- [Pinned Projects](#pinned-projects)
 - [About Me](#about-me)
 - [All Projects](#all-projects)
   - [Utilities](#utilities)
@@ -6,6 +7,19 @@
   - [Extra](#extra)
   - [Archived](#archived)
 <!--toc:end-->
+
+# Pinned Projects
+
+<div style="align-items: center">
+    <a href="https://github.com/trueNAHO/dotfiles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=trueNAHO&repo=dotfiles&theme=tokyonight&bg_color=00000000"
+            style="vertical-align: middle; width: 49%" />
+    </a>
+    <a href="https://github.com/trueNAHO/grub2-theme-vimix-very-dark-blue">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=trueNAHO&repo=grub2-theme-vimix-very-dark-blue&theme=tokyonight&bg_color=00000000"
+            style="vertical-align: middle; width: 49%" />
+    </a>
+</div>
 
 # About Me
 
