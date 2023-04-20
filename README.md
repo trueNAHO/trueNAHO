@@ -63,6 +63,10 @@ back soon for updates!
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=trueNAHO&repo=Mini-games&theme=tokyonight&bg_color=00000000"
             style="vertical-align: middle; width: 49%" />
     </a>
+    <a href="https://github.com/trueNAHO/logo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=trueNAHO&repo=logo&theme=tokyonight&bg_color=00000000"
+            style="vertical-align: middle; width: 49%" />
+    </a>
     <a href="https://github.com/trueNAHO/trueNAHO">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=trueNAHO&repo=trueNAHO&theme=tokyonight&bg_color=00000000"
             style="vertical-align: middle; width: 49%" />
