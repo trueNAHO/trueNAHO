@@ -1,6 +1,14 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=trueNAHO&show_icons=true&theme=tokyonight&bg_color=00000000"
+        style="width: 100%;" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueNAHO&layout=compact&theme=tokyonight&bg_color=00000000"
+        style="width: 100%;" />
+</a>
+
 <!--toc:start-->
 - [Pinned Projects](#pinned-projects)
-- [About Me](#about-me)
 - [All Projects](#all-projects)
   - [Utilities](#utilities)
   - [Configurations](#configurations)
@@ -17,21 +25,6 @@
     </a>
     <a href="https://github.com/trueNAHO/grub2-theme-vimix-very-dark-blue">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=trueNAHO&repo=grub2-theme-vimix-very-dark-blue&theme=tokyonight&bg_color=00000000"
-            style="vertical-align: middle; width: 49%" />
-    </a>
-</div>
-
-# About Me
-
-<div style="align-items: center">
-    <a
-        href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=trueNAHO&show_icons=true&theme=tokyonight&bg_color=00000000"
-            style="vertical-align: middle; width: 49%" />
-    </a>
-    <a
-        href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trueNAHO&layout=compact&theme=tokyonight&bg_color=00000000"
             style="vertical-align: middle; width: 49%" />
     </a>
 </div>
