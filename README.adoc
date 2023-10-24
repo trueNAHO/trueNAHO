@@ -1,0 +1,44 @@
+:profile-summary: https://github-profile-summary-cards.vercel.app/api/cards/
+:readme-stats: https://github-readme-stats.vercel.app/api/pin/
+:theme: transparent
+:user: trueNAHO
+:utc: 1
+:width-half: 49%
+
+:user-github: https://github.com/{user}
+
+:user-github-repositories: {user-github}?tab=repositories
+
+= About Me
+
+<<repositories, image:{profile-summary}/profile-details?username={user}&theme={theme}[width=100%]>>
+
+<<repositories, image:{profile-summary}/most-commit-language?theme={theme}&username={user}[width={width-half}]>>
+<<repositories, image:{profile-summary}/repos-per-language?theme={theme}&username={user}[width={width-half}]>>
+<<repositories, image:{profile-summary}/stats?theme={theme}&username={user}[width={width-half}]>>
+<<repositories, image:{profile-summary}/productive-time?theme={theme}&username={user}&utcOffset={utc}[width={width-half}]>>
+
+<<repositories, image:https://github-profile-trophy.vercel.app/?no-bg=true&no-frame=true&username={user}&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=algolia[]>>
+
+[#repositories]
+= Repositories
+
+== Configurations
+
+image:{readme-stats}?repo=dotfiles&theme={theme}&username={user}[link={user-github}/dotfiles, width={width-half}]
+image:{readme-stats}?repo=grub2-theme-vimix-very-dark-blue&theme={theme}&username={user}[link={user-github}/grub2-theme-vimix-very-dark-blue, width={width-half}]
+image:{readme-stats}?repo=os&theme={theme}&username={user}[link={user-github}/os, width={width-half}]
+
+== Miscellaneous
+
+image:{readme-stats}?repo=Sweep&theme={theme}&username={user}[link={user-github}/Sweep, width={width-half}]
+image:{readme-stats}?repo=logo&theme={theme}&username={user}[link={user-github}/logo, width={width-half}]
+image:{readme-stats}?repo=trueNAHO&theme={theme}&username={user}[link={user-github}/trueNAHO, width={width-half}]
+image:{readme-stats}?repo=university&theme={theme}&username={user}[link={user-github}/university, width={width-half}]
+
+== Archive
+
+image:{readme-stats}?repo=.config&theme={theme}&username={user}[link={user-github}/.config, width={width-half}]
+image:{readme-stats}?repo=.local&theme={theme}&username={user}[link={user-github}/.local, width={width-half}]
+image:{readme-stats}?repo=Mini-games&theme={theme}&username={user}[link={user-github}/Mini-games, width={width-half}]
+image:{readme-stats}?repo=Scripts&theme={theme}&username={user}[link={user-github}/Scripts, width={width-half}]
