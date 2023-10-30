@@ -59,7 +59,4 @@ image:{readme-stats}?repo=university&theme={theme}&username={user}[link={user-gi
 
 == Archives
 
-image:{readme-stats}?repo=.config&theme={theme}&username={user}[link={user-github}/.config, width={width-half}]
-image:{readme-stats}?repo=.local&theme={theme}&username={user}[link={user-github}/.local, width={width-half}]
-image:{readme-stats}?repo=Scripts&theme={theme}&username={user}[link={user-github}/Scripts, width={width-half}]
 image:{readme-stats}?repo=tic-tac-toe.cc&theme={theme}&username={user}[link={user-github}/tic-tac-toe.cc, width={width-half}]
