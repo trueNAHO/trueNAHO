@@ -33,6 +33,7 @@
               alejandra.enable = true;
               convco.enable = true;
               typos.enable = true;
+              yamllint.enable = true;
             };
 
             settings.alejandra.verbosity = "quiet";
