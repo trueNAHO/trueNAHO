@@ -1,0 +1,16 @@
+= Dotfiles
+
+== About
+
+Version control visualization of https://github.com/trueNAHO/dotfiles:
+https://youtu.be/mJPvRkYkbYE.
+
+== Contributing
+
+To contribute, please review link:../docs/contributing.adoc[our contribution
+guidelines].
+
+== License
+
+This project is licensed under link:../../LICENSE[GNU GENERAL PUBLIC LICENSE
+Version 3].
