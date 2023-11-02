@@ -168,7 +168,6 @@
                         gource \
                           --auto-skip-seconds .01 \
                           --background-colour 1a1b26 \
-                          --file-idle-time 10 \
                           --follow-user NAHO \
                           --hide mouse,progress \
                           --highlight-dirs \
