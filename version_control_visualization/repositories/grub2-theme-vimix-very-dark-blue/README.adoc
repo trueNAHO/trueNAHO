@@ -1,0 +1,17 @@
+= Grub2 Theme Vimix Very Dark Blue
+
+== About
+
+Version control visualization of
+https://github.com/trueNAHO/grub2-theme-vimix-very-dark-blue:
+https://youtu.be/7IcylxhnRto.
+
+== Contributing
+
+To contribute, please review link:../docs/contributing.adoc[our contribution
+guidelines].
+
+== License
+
+This project is licensed under link:../../LICENSE[GNU GENERAL PUBLIC LICENSE
+Version 3].
