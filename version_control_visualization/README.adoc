@@ -1,0 +1,32 @@
+= Version Control Visualizations
+
+== About
+
+Version control visualizations of https://github.com/trueNAHO[NAHO]'s
+substantial repositories. The version control visualizations are categorized by
+repository.
+
+== Usage
+
+To generate version control visualizations in parallel with
+https://nixos.wiki/wiki/Nix_Installation_Guide[Nix] follow the instructions
+given by:
+
+[,bash]
+----
+nix run github.com:trueNAHO/trueNAHO -- -h
+----
+
+== See Also
+
+* https://gource.io
+
+== Contributing
+
+To contribute, please review link:../docs/contributing.adoc[our contribution
+guidelines].
+
+== License
+
+This project is licensed under link:../LICENSE[GNU GENERAL PUBLIC LICENSE
+Version 3].
