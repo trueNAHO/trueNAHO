@@ -110,6 +110,11 @@
 
                         o)
                           if [[ ! -d "$OPTARG" ]]; then
+                            printf \
+                              '%s\n' \
+                              "Invalid output directory: $OPTARG" \
+                              >&2
+
                             help_message
                             exit 2
                           fi
