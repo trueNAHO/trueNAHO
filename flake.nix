@@ -133,7 +133,7 @@
 
                     if (( ''${#PATHS[@]} == 0 )); then
                       help_message
-                      exit 4
+                      exit 3
                     fi
                   }
 
