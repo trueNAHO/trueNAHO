@@ -56,13 +56,17 @@
           pkgs.stdenv.mkDerivation {
             inherit name;
 
-            buildPhase = ''
+            buildPhase = let
+              imageWidth = toString (
+                (pkgs.lib.trivial.max dimension.height dimension.width) / 4
+              );
+            in ''
               parallel \
                 --halt now,fail=1 \
                 ' \
                   convert \
                     -background transparent \
-                    -resize ${toString (dimension.width / 4)}x \
+                    -resize ${imageWidth}x \
                     {} \
                     {.}.png && \
                     image_optim \
