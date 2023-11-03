@@ -196,7 +196,11 @@
                 "$out/bin" \
                 "$out/etc/gource"
 
-              ln --symbolic "${application}/bin/${application.name}" "$out/bin"
+              ln \
+                --symbolic \
+                "${application}/bin/${application.meta.mainProgram}" \
+                "$out/bin"
+
               mv *.png *.jpg "$out/etc/gource"
             '';
 
