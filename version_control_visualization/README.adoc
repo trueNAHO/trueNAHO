@@ -9,7 +9,7 @@ repository.
 == Usage
 
 To generate version control visualizations in parallel with
-https://nixos.wiki/wiki/Nix_Installation_Guide[Nix] follow the instructions
+https://nixos.wiki/wiki/Nix_Installation_Guide[`nix`] follow the instructions
 given by:
 
 [,bash]
