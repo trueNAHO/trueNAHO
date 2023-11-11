@@ -41,6 +41,9 @@
        https://elkowar.github.io/eww/expression_language.html#simple-expression-language[Yuck]
 |===
 
+NOTE: https://github.com/search?q=involves%3A{user}[{user}'s complete GitHub
+Activity]
+
 [#repositories]
 = Repositories
 
