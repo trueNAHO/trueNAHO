@@ -12,7 +12,7 @@ To generate version control visualizations in parallel with
 https://nixos.wiki/wiki/Nix_Installation_Guide[`nix`] follow the instructions
 given by:
 
-[,bash]
+,bash]
 ----
 nix run github.com:trueNAHO/trueNAHO -- -h
 ----
