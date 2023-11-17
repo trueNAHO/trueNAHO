@@ -56,6 +56,7 @@ image:{readme-stats}?repo=os&theme={theme}&username={user}[link={user-github}/os
 == Miscellaneous
 
 image:{readme-stats}?repo=Sweep&theme={theme}&username={user}[link={user-github}/Sweep, width={width-half}]
+image:{readme-stats}?repo=advent-of-code&theme={theme}&username={user}[link={user-github}/advent-of-code, width={width-half}]
 image:{readme-stats}?repo=logo&theme={theme}&username={user}[link={user-github}/logo, width={width-half}]
 image:{readme-stats}?repo=trueNAHO&theme={theme}&username={user}[link={user-github}/trueNAHO, width={width-half}]
 image:{readme-stats}?repo=university&theme={theme}&username={user}[link={user-github}/university, width={width-half}]
