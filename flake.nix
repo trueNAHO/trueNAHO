@@ -27,18 +27,16 @@
       system: let
         pkgs = nixpkgs.legacyPackages.${system};
       in {
-        checks = {
-          preCommitHooks = preCommitHooks.lib.${system}.run {
-            hooks = {
-              alejandra.enable = true;
-              convco.enable = true;
-              typos.enable = true;
-              yamllint.enable = true;
-            };
-
-            settings.alejandra.verbosity = "quiet";
-            src = ./.;
+        checks.preCommitHooks = preCommitHooks.lib.${system}.run {
+          hooks = {
+            alejandra.enable = true;
+            convco.enable = true;
+            typos.enable = true;
+            yamllint.enable = true;
           };
+
+          settings.alejandra.verbosity = "quiet";
+          src = ./.;
         };
 
         devShells.default = pkgs.mkShell {
