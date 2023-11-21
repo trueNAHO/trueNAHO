@@ -12,12 +12,10 @@
 = About Me
 
 <<repositories, image:{profile-summary}/profile-details?username={user}&theme={theme}[width=100%]>>
-
 <<repositories, image:{profile-summary}/most-commit-language?theme={theme}&username={user}[width={width-half}]>>
 <<repositories, image:{profile-summary}/repos-per-language?theme={theme}&username={user}[width={width-half}]>>
 <<repositories, image:{profile-summary}/stats?theme={theme}&username={user}[width={width-half}]>>
 <<repositories, image:{profile-summary}/productive-time?theme={theme}&username={user}&utcOffset={utc}[width={width-half}]>>
-
 <<repositories, image:https://github-profile-trophy.vercel.app/?no-bg=true&no-frame=true&username={user}&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=algolia[]>>
 
 [cols="1,100"]
