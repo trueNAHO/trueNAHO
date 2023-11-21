@@ -21,7 +21,7 @@ image:https://github-profile-trophy.vercel.app/?no-bg=true&no-frame=true&usernam
 
 [cols="1,100"]
 |===
-| Rank | Language
+| Rank | Languages
 
 ^| S | https://awk.dev[AWK],
        https://common-lisp.net[Common Lisp],
