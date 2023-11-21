@@ -5,18 +5,19 @@
 :utc: 1
 :width-half: 49%
 
+:user-github-involves: https://github.com/search?q=involves%3A{user}
 :user-github: https://github.com/{user}
 
 :user-github-repositories: {user-github}?tab=repositories
 
 = About Me
 
-<<repositories, image:{profile-summary}/profile-details?username={user}&theme={theme}[width=100%]>>
-<<repositories, image:{profile-summary}/most-commit-language?theme={theme}&username={user}[width={width-half}]>>
-<<repositories, image:{profile-summary}/repos-per-language?theme={theme}&username={user}[width={width-half}]>>
-<<repositories, image:{profile-summary}/stats?theme={theme}&username={user}[width={width-half}]>>
-<<repositories, image:{profile-summary}/productive-time?theme={theme}&username={user}&utcOffset={utc}[width={width-half}]>>
-<<repositories, image:https://github-profile-trophy.vercel.app/?no-bg=true&no-frame=true&username={user}&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=algolia[]>>
+image:{profile-summary}/profile-details?username={user}&theme={theme}[link={user-github-involves}, width=100%]
+image:{profile-summary}/most-commit-language?theme={theme}&username={user}[link={user-github-involves}, width={width-half}]
+image:{profile-summary}/repos-per-language?theme={theme}&username={user}[link={user-github-involves}, width={width-half}]
+image:{profile-summary}/stats?theme={theme}&username={user}[link={user-github-involves}, width={width-half}]
+image:{profile-summary}/productive-time?theme={theme}&username={user}&utcOffset={utc}[link={user-github-involves}, width={width-half}]
+image:https://github-profile-trophy.vercel.app/?no-bg=true&no-frame=true&username={user}&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=algolia[link={user-github-involves}]
 
 [cols="1,100"]
 |===
@@ -39,7 +40,7 @@
        https://elkowar.github.io/eww/expression_language.html#simple-expression-language[Yuck]
 |===
 
-NOTE: https://github.com/search?q=involves%3A{user}[{user}'s complete GitHub
+NOTE: {user-github-involves}[{user}'s complete GitHub
 Activity]
 
 [#repositories]
