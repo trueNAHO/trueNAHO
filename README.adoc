@@ -27,15 +27,19 @@ image:https://github-profile-trophy.vercel.app/?no-bg=true&no-frame=true&usernam
        https://common-lisp.net[Common Lisp],
        https://nixos.org/manual/nix/stable[Nix],
        https://www.rust-lang.org[Rust]
+
 ^| A | https://www.gnu.org/software/bash[Bash],
        link:https://en.wikipedia.org/wiki/C_(programming_language)[C]/link:https://isocpp.org[C++],
        https://www.lua.org[Lua]
+
 ^| B | https://fishshell.com[Fish],
        https://www.python.org[Python],
        https://tug.org[TeX]
+
 ^| C | https://www.vim.org[Vimscript]
 ^| D | https://www.haskell.org[Haskell]
 ^| E | https://en.wikipedia.org/wiki/JavaScripp[Javascript]
+
 ^| F | https://www.java.com[Java],
        https://elkowar.github.io/eww/expression_language.html#simple-expression-language[Yuck]
 |===
