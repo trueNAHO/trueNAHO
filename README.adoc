@@ -61,10 +61,10 @@ image:{readme-stats}?repo=os&theme={theme}&username={user}[link={user-github}/os
 image:{readme-stats}?repo=Sweep&theme={theme}&username={user}[link={user-github}/Sweep, width={width-half}]
 image:{readme-stats}?repo=advent-of-code&theme={theme}&username={user}[link={user-github}/advent-of-code, width={width-half}]
 image:{readme-stats}?repo=logo&theme={theme}&username={user}[link={user-github}/logo, width={width-half}]
-image:{readme-stats}?repo=tic-tac-toe.rs&theme={theme}&username={user}[link={user-github}/tic-tac-toe.rs, width={width-half}]
 image:{readme-stats}?repo=trueNAHO&theme={theme}&username={user}[link={user-github}/trueNAHO, width={width-half}]
 image:{readme-stats}?repo=university&theme={theme}&username={user}[link={user-github}/university, width={width-half}]
 
 == Archives
 
 image:{readme-stats}?repo=tic-tac-toe.cc&theme={theme}&username={user}[link={user-github}/tic-tac-toe.cc, width={width-half}]
+image:{readme-stats}?repo=tic-tac-toe.rs&theme={theme}&username={user}[link={user-github}/tic-tac-toe.rs, width={width-half}]
