@@ -52,6 +52,7 @@ Activity]
 
 == Configurations
 
+image:{readme-stats}?repo=disks&theme={theme}&username={user}[link={user-github}/disks, width={width-half}]
 image:{readme-stats}?repo=dotfiles&theme={theme}&username={user}[link={user-github}/dotfiles, width={width-half}]
 image:{readme-stats}?repo=grub2-theme-vimix-very-dark-blue&theme={theme}&username={user}[link={user-github}/grub2-theme-vimix-very-dark-blue, width={width-half}]
 image:{readme-stats}?repo=os&theme={theme}&username={user}[link={user-github}/os, width={width-half}]
